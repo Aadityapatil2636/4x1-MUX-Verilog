@@ -30,4 +30,4 @@ This project implements a 4x1 Multiplexer using Gate-Level Modeling in Verilog H
 
 ## Author
 
-Aditya Patil
+Aaditya Patil
